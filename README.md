@@ -1,1 +1,2 @@
 - tutorial_1.cpp: hello window
+- tutorial_2.cpp: rendering color onto window
