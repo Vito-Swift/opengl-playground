@@ -1,2 +1,3 @@
 - tutorial_1.cpp: hello window
 - tutorial_2.cpp: rendering color onto window
+- tutorial_3.cpp: first triangle

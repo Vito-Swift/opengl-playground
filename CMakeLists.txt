@@ -49,4 +49,5 @@ find_package(Threads)
 
 link_libraries(${OPENGL_LIBRARIES} ${GLFW_LIBRARIES} ${CMAKE_DL_LIBS} ${X11_LIBRARIES} ${CMAKE_THREAD_LIBS_INIT})
 add_executable(tutorial_1 tutorial_1.cpp glad.c)
-add_executable(tutorial_2.cpp tutorial_2.cpp glad.c)
+add_executable(tutorial_2 tutorial_2.cpp glad.c)
+add_executable(tutorial_3 tutorial_3.cpp glad.c)
